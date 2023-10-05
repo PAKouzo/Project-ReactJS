@@ -1,3 +1,14 @@
 .rightspotify{
     padding: 8px;
 }
+.rightspotify__top{
+    background-color: #535353 !important;
+}
+.button__directional{
+    padding: 8px 0;
+}
+.button__SignLogin{
+    display: flex;
+    justify-content: baseline;
+    padding: 8px 32px;
+}

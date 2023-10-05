@@ -1,9 +1,12 @@
 import React from 'react'
+import { FaAngleLeft } from "react-icons/fa";
 
-const Backward = () => {
+const Backward = ({color}) => {
   return (
     <div>
-        <button onclick="history.back()">Go Back</button>
+        <button style={{color: color}} className='button__Backward' onclick="history.back()">
+          <FaAngleLeft></FaAngleLeft>
+        </button>
     </div>
   )
 }

@@ -1,0 +1,12 @@
+.button__Login{
+    background-color: white;
+    color: black;
+    font-weight: 700;
+    width: 109px;
+    height: 48px;
+    border-radius: 500px;
+    padding: 8px 32px;
+}
+.button__Login:hover{
+    font-weight: 800;
+}

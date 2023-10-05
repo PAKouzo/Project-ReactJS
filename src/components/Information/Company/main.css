@@ -1,0 +1,8 @@
+.company{
+    color: #A7A7A7;
+    text-decoration: none;
+}
+.company:hover{
+    color: white;
+    text-decoration: underline;
+}

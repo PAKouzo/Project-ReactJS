@@ -1,0 +1,11 @@
+.socialmedia{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.button__socialmedia{
+    width: 40px;
+    height: 40px;
+    background-color: #292929;
+    border-radius: 50%;
+}
