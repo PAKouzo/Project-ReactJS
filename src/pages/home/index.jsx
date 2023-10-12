@@ -56,11 +56,61 @@ const HOME = () => {
                   <div className="col-12">
                     <div className="row">
                       <div className="col-1"></div>
-                      <div className="col-2">Today's Top Hits</div>
-                      <div className="col-2">RapCaviar</div>
-                      <div className="col-2">All Out 2010s</div>
-                      <div className="col-2">Rock Classics</div>
-                      <div className="col-2">Chill Hits</div>
+                      <div className="col-2">
+                        <div className="row">
+                          <div className="col-12">
+                            <img aria-hidden="false" draggable="false" loading="lazy" src="https://i.scdn.co/image/ab67706f00000002023867d5cf694548540423dd" alt="" className="album__image"></img>
+                          </div>
+                          <div className="col-12">
+                            <p className='album__title'>Today's Top Hits</p>
+                            <p className='album__details'>Doja Cat on top of the Hottest 50!</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-2">
+                        <div className="row">
+                          <div className="col-12">
+                          <img aria-hidden="false" draggable="false" loading="lazy" src="https://i.scdn.co/image/ab67706f000000020107a3aeac780c2d2cf621ca" alt="" className="album__image"></img>
+                          </div>
+                          <div className="col-12">
+                            <p className='album__title'>RapCaviar</p>
+                            <p className='album__details'>New music from Fivio Foreign, Lil Yachty and ...</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-2">
+                        <div className="row">
+                          <div className="col-12">
+                          <img aria-hidden="false" draggable="false" loading="lazy" src="https://i.scdn.co/image/ab67706f00000002b0fe40a6e1692822f5a9d8f1" alt="" className="album__image"></img>
+                          </div>
+                          <div className="col-12">
+                            <p className='album__title'>All Out 2010s</p>
+                            <p className='album__details'>The biggest songs of 2010s</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-2">
+                        <div className="row">
+                          <div className="col-12">
+                            <img aria-hidden="false" draggable="false" loading="lazy" src="https://i.scdn.co/image/ab67706f0000000278b4745cb9ce8ffe32daaf7e" alt="" className="album__image"></img>
+                          </div>
+                          <div className="col-12">
+                            <p className='album__title'>Rock Classics</p>
+                            <p className='album__details'>Rock legends & epic songs that continue to...</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-2">
+                        <div className="row">
+                          <div className="col-12">
+                            <img aria-hidden="false" draggable="false" loading="lazy" src="https://i.scdn.co/image/ab67706f00000002b60db5d1bcdd9c4fd1ebcffe" alt="" className="album__image"></img>
+                          </div>
+                          <div className="col-12">
+                            <p className='album__title'>Chill Hits</p>
+                            <p className='album__details'>Kick back to the best new and recent chill...</p>
+                          </div>
+                        </div>
+                      </div>
                       <div className="col-1"></div>
                     </div>
                   </div>
