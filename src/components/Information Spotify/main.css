@@ -1,0 +1,37 @@
+.view__privacy{
+    display: inline-block;
+    margin: 32px 0;
+    padding: 0 24px;
+}
+.privacy{
+    display: flex;
+    flex-wrap: wrap;
+}
+.privacy__item{
+    color: #a7a7a7;
+    font-size: 11px;
+    margin-right: 16px;
+   
+}
+.cookies{
+    color: #a7a7a7;
+    font-size: 11px;
+    text-decoration: none;
+    padding-top: 5px;
+}
+.cookies:hover{
+    text-decoration: underline;
+}
+.language__button{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    border: 1px solid white;
+    border-radius: 500px;
+    padding: 3px 15px 3px 15px;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.Language{
+    font-size: 20px !important;
+}

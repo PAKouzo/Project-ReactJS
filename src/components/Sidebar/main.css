@@ -1,0 +1,17 @@
+li{
+    list-style: none;
+}
+
+li:hover{
+    color: white;
+    font-weight: 700;
+}
+.sidebar__logo{
+    font-size: 24px;
+}
+.sidebar__button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}

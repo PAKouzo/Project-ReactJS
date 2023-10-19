@@ -1,0 +1,7 @@
+.main__view-end{
+    /* position: fixed; */
+    /* display: flex; */
+    justify-content: space-around;
+    align-items: center;
+    align-self: center;
+}

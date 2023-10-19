@@ -1,0 +1,8 @@
+.showall{
+    font-size: 14px;
+    color: #b3b3b3;
+    text-decoration: none;
+}
+.showall:hover{
+    text-decoration: underline;
+}

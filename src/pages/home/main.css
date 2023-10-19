@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.home{
+    padding: 0 16px;
+}
+.right__sidebar{
+    overflow: auto;
+    padding: 0 0 32px;
+    display: block;
+}
+.right__sidebar-header{
+    padding-top: 20px;
+}
+.button__directional{
+    padding: 8px 0;
+}
+.button__SignLogin{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 32px;
+}
+
+.topbar{
+    display: block;
+    line-height: 40px;
+    padding: 25px;
+    margin: 10px;
+}
+.yourlibrary{
+    padding: 25px;
+}
+.body__header{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}

@@ -1,0 +1,8 @@
+.button__SignUp{
+    color: #a7a7a7;
+    padding: 8px 32px 8px 8px;
+}
+.button__SignUp:hover{
+    color: white;
+    font-weight: 700;
+}
