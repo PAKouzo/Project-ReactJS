@@ -11,7 +11,7 @@ const Playlist = () => {
                 <div className="row">
                     <div className="playlist__img-container col-12">
                         <img aria-hidden="false" draggable="false" loading="lazy" src="https://i.scdn.co/image/ab67706f00000002023867d5cf694548540423dd" alt="" className="playlist__image"></img>
-                        <button className='play__playlist'><GrPlayFill className='GrPlayFill'></GrPlayFill></button>
+                        <button className='play__playlist'><ButtonToPlaylist className='GrPlayFill'></ButtonToPlaylist></button>
                     </div>
                     <div className="playlist__desc col-12">
                         <p className='playlist__title'>Today's Top Hits</p>
