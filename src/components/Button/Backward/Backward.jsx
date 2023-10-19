@@ -1,10 +1,13 @@
 import React from 'react'
 import { FaAngleLeft } from "react-icons/fa";
 
-const Backward = ({color}) => {
+const Backward = () => {
+  const goback = () => {
+    window.history.back();
+  }
   return (
     <div>
-        <button style={{color: color}} className='button__Backward' onclick="history.back()">
+        <button className='button__Backward' onclick={goback}>
           <FaAngleLeft></FaAngleLeft>
         </button>
     </div>
